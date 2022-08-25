@@ -1,5 +1,6 @@
 # Spotify-Clone 1.0
-this is spotify clone or a music player using html, css and javascript.
+This is spotify clone or a music player using html, css and javascript.
+This music player will have all the features found in a typical music player. we will be able to add, play, pause and seek songs that have been added. 
 
 [Link of the Project](https://spotify-musicplayer3.netlify.app/)
 <br>
